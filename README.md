@@ -4,6 +4,9 @@
 ## Overview
 The **Adidas Sales Dashboard** is a comprehensive data visualization project that displays key metrics for sales performance across regions, sales channels, and product categories. The dashboard provides insights into total sales, profit margins, and sales methods, allowing users to explore trends and performance by year and region.
 
+<img width="1381" alt="Dashboard Image" src="https://github.com/user-attachments/assets/d1fca3f0-8cd5-4713-8a57-4df5569fc710">
+
+
 ## Features
 - **Sales Trends**: Line chart showing monthly sales in USD for the years 2020 and 2021.
 - **Retailer Sales & Profit**: Bar and line graph showing the sum of total sales and operating profit for various retailers such as Amazon, Kohl’s, Sports Direct, and others.

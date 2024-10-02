@@ -26,7 +26,7 @@ The **Adidas Sales Dashboard** is a comprehensive data visualization project tha
 ## How to Use
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/adidas-sales-dashboard.git
+   git clone https://github.com/Shambhu7714/Sales-Dashboard-Excel.git
    ```
 2. Open the Power BI dashboard file.
 3. Use the slicers to filter sales data by year, region, and product category.
